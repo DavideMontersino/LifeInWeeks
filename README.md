@@ -1,2 +1,0 @@
-# LifeInWeeks
-Created with CodeSandbox
